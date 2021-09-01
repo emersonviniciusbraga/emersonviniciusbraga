@@ -1,10 +1,8 @@
 # **Olá! Sou o Emerson Braga**<h1>
 <div>
-![Emerson Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonviniciusbraga&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonviniciusbraga&layout=compact)](https://github.com/emersonviniciusbraga/github-readme-stats)
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=emersonviniciusbraga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonviniciusbraga&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
 
 <div style="display: inline_block"><br>
 
