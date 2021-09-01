@@ -5,6 +5,12 @@
 </div>
 <div style="display: inline_block"><br>
     <img align="center" heigth="60" width="80" src="img/php-icon.svg">
+    <img align="center" heigth="60" width="80" src="img/codeigniter-icon.svg">
+    <img align="center" heigth="60" width="80" src="img/mysql-icon.svg">
+    <img align="center" heigth="60" width="80" src="img/bootstrap-icon.svg">
+    <img align="center" heigth="60" width="80" src="img/html-icon.svg">
+    <img align="center" heigth="60" width="80" src="img/css-icon.svg">
+    <img align="center" heigth="60" width="80" src="img/arduino-icon.svg">
 </div>
 
 ![Snake animation](https://github.com/emersonviniciusbraga/emersonviniciusbraga/blob/output/github-contribution-grid-snake.svg)
