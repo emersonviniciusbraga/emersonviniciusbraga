@@ -1,8 +1,8 @@
 ## Olá! 
 ## Sou o Emerson Braga </> 
-<div align="center">
-<img heigth="120em" src="https://github-readme-stats.vercel.app/api?username=emersonviniciusbraga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img heigth="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonviniciusbraga&layout=compact&langs_count=7&theme=radical"/>
+<div>
+<img heigth="200em" src="https://github-readme-stats.vercel.app/api?username=emersonviniciusbraga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img heigth="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonviniciusbraga&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
     <img align-items="center" heigth="40" width="50" src="img/php-icon.svg">
