@@ -13,5 +13,5 @@
     <img align-items="center" heigth="40" width="50" src="img/css-icon.svg">
     <img align-items="center" heigth="40" width="50" src="img/arduino-icon.svg">
 </div>
-##
+
 ![Snake animation](https://github.com/emersonviniciusbraga/emersonviniciusbraga/blob/output/github-contribution-grid-snake.svg)
