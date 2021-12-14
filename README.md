@@ -5,12 +5,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonviniciusbraga&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-    <img align-items="center" heigth="40" width="50" src="img/php-icon.svg">
-    <img align-items="center" heigth="40" width="50" src="img/codeigniter-icon.svg">
-    <img align-items="center" heigth="40" width="50" src="img/mysql-icon.svg">
-    <img align-items="center" heigth="40" width="50" src="img/bootstrap-icon.svg">
-    <img align-items="center" heigth="40" width="50" src="img/html-icon.svg">
-    <img align-items="center" heigth="40" width="50" src="img/css-icon.svg">
+    <img align-items="center" heigth="40" width="50" src="img/php-icon.svg"><br>
+    <img align-items="center" heigth="40" width="50" src="img/codeigniter-icon.svg"><br>
+    <img align-items="center" heigth="40" width="50" src="img/mysql-icon.svg"><br>
+    <img align-items="center" heigth="40" width="50" src="img/bootstrap-icon.svg"><br>
+    <img align-items="center" heigth="40" width="50" src="img/html-icon.svg"><br>
+    <img align-items="center" heigth="40" width="50" src="img/css-icon.svg"><br>
     <img align-items="center" heigth="40" width="50" src="img/arduino-icon.svg">
 </div>
 
