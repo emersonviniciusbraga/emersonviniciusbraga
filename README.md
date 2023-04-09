@@ -1,17 +1,22 @@
-## Olá! 
-## Sou o Emerson Braga </> 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonviniciusbraga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonviniciusbraga&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<div style="display: flex; flex-direction: row;"><br>
-    <img styl="padding: 40px" align-items="center" heigth="40" width="50" src="img/php-icon.svg">
-    <img styl="padding: 40px" align-items="center" heigth="40" width="50" src="img/codeigniter-icon.svg">
-    <img styl="padding: 40px" align-items="center" heigth="40" width="50" src="img/mysql-icon.svg">
-    <img styl="padding: 40px" align-items="center" heigth="40" width="50" src="img/bootstrap-icon.svg">
-    <img styl="padding: 40px" align-items="center" heigth="40" width="50" src="img/html-icon.svg">
-    <img styl="padding: 40px" align-items="center" heigth="40" width="50" src="img/css-icon.svg">
-    <img styl="padding: 40px" align-items="center" heigth="40" width="50" src="img/arduino-icon.svg">
-</div>
+### Olá! Eu sou o Emerson Braga ✌
 
-![Snake animation](https://github.com/emersonviniciusbraga/emersonviniciusbraga/blob/output/github-contribution-grid-snake.svg)
+</br>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-braga-69a3801aa/)
+[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emersu.jpg/)
+
+![Emerson Braga GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonviniciusbraga&show_icons=true&theme=dark)
+
+## Tecnologias que eu uso/estudo
+
+<div style="display: inline_block"><br/>
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img aling="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img aling="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img aling="center" alt="codeigniter3" src="https://img.shields.io/badge/CodeIgniter3-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white"/>
+    <img aling="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img aling="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+</div></br>
+
+![Animação Cobrinha](https://github.com/emersonviniciusbraga/emersonviniciusbraga/blob/output/github-contribution-grid-snake.svg)
