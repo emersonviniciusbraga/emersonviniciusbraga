@@ -4,7 +4,6 @@
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emersu.jpg/)
 
 ![Emerson Braga GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonviniciusbraga&show_icons=true&theme=dark)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonviniciusbraga&layout=compact&theme=dark)
 
 ## Tecnologias que eu uso/estudo
 
