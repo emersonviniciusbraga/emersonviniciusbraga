@@ -16,7 +16,6 @@
     <img aling="center" alt="codeigniter3" src="https://img.shields.io/badge/CodeIgniter3-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white"/>
     <img aling="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
     <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img aling="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </div></br>
 
 ![Animação Cobrinha](https://github.com/emersonviniciusbraga/emersonviniciusbraga/blob/output/github-contribution-grid-snake.svg)
