@@ -1,4 +1,4 @@
-### Olá! Eu sou o Emerson Braga ✌
+### Olá! Eu sou o Emerson Braga ✌ **<<span style="color: red;">/</span>>**
 
 </br>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-braga-69a3801aa/)
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emersu.jpg/)
