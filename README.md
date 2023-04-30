@@ -3,13 +3,12 @@
 </br>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-braga-69a3801aa/)
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emersu.jpg/)
 
+<div style="display: inline_block">
+
 ![Emerson Braga GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonviniciusbraga&show_icons=true&theme=dark)
-
-<div style="width: 100%">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonviniciusbraga&layout=compact&theme=dark)
-</div>
 
+</div>
 ## Tecnologias que eu uso/estudo
 
 <div style="display: inline_block"><br/>
