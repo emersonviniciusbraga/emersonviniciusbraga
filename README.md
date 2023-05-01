@@ -6,7 +6,7 @@
 <div style="display: inline_block">
 
 ![Emerson Braga GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonviniciusbraga&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonviniciusbraga&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonviniciusbraga&langs_count=8&theme=dark)
 
 </div>
 ## Tecnologias que eu uso/estudo
