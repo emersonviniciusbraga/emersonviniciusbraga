@@ -9,6 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonviniciusbraga&layout=compact&theme=dark)
 
 </div>
+
 ## Tecnologias que eu uso/estudo
 
 <div style="display: inline_block"><br/>
