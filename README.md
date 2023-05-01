@@ -5,8 +5,8 @@
 
 <div style="display: inline_block">
 
-![Emerson Braga GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonviniciusbraga&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonviniciusbraga&langs_count=5&theme=dark)
+![Emerson Braga GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonviniciusbraga&show_icons=true&rank_icon=github&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonviniciusbraga&layout=compact&theme=dark)
 
 </div>
 ## Tecnologias que eu uso/estudo
