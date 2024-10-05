@@ -27,4 +27,4 @@
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div></br>
 
-![Animação Cobrinha](https://github.com/emersonviniciusbraga/emersonviniciusbraga/blob/output/github-contribution-grid-snake.svg)
+![Animação Cobrinha](https://github.com/emersubraga/emersubraga/blob/output/github-contribution-grid-snake.svg)
